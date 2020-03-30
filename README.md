@@ -1,8 +1,8 @@
 # docker-alpine-grpc
 
 ```
-ENV PROTOBUF_VERSION=3.8.x
-ENV GRPC_VERSION=v1.13.x
+ENV PROTOBUF_VERSION=3.11.x
+ENV GRPC_VERSION=v1.27.x
 ```
 
 DockerHub
